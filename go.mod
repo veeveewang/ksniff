@@ -21,7 +21,7 @@ require (
 	github.com/stretchr/testify v1.6.1
 	gopkg.in/ini.v1 v1.51.1 // indirect
 	k8s.io/api v0.20.6
-	k8s.io/apimachinery v0.20.6
+	k8s.io/apimachinery v0.25.1-rc.0
 	k8s.io/cli-runtime v0.20.6
 	k8s.io/client-go v0.20.6
 )
